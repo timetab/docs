@@ -4,9 +4,9 @@
 
 ###### 
 
-###### 1. Geben Sie in das Formular mit der Beschreibung "Link Code" Ihren Code ein. Prüfen Sie Ihre Eingabe nach ihrer Gültigkeit.  ⠀   ⠀  Klicken Sie anschließend auf "Link Code verwenden".
+###### 1. Geben Sie in das Formular mit der Beschreibung "Link Code" Ihren Code ein. Prüfen Sie Ihre Eingabe nach ihrer Gültigkeit. Klicken Sie anschließend auf "Link Code verwenden".
 
-###### 2. Haben Sie alles korrekt eingegeben, sollte nun ein Feld auftauchen mit \(Wie nennt man das?\). Drücken Sie auf  ⠀ ⠀ ⠀ ⠀ ⠀    ⠀  ⠀  "Lehrer auswählen".
+###### 2. Haben Sie alles korrekt eingegeben, sollte nun ein Feld auftauchen mit \(Wie nennt man das?\). Drücken Sie auf "Lehrer auswählen".
 
 ###### 3. Sie gelangen daraufhin in Ihre Übersicht
 
