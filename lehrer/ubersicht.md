@@ -2,11 +2,7 @@
 
 ## Kalender
 
-Nach dem erfolgreichen Einloggen sehen Sie als erstes Ihren Kalender, auf dem Ihre Stunden angezeigt werden. Der aktuelle Tag wird bläulich hervorgehoben.
 
-Sie können ihren Kalender zwischen der Wochenübersicht und der Tagesübersicht wechseln, indem sie auf "Woche" oder "Tag" klicken.
-
-Möchten Sie sich die nächste Woche oder den nächsten Tag bzw. die vorherige Woche oder den vorherigen Tag anzeigen lassen, drücken Sie auf die Pfeile über Ihrem Kalender. Um zum aktuellen Tag zu gelangen, drücken Sie auf "Heute".
 
 ## Fächer
 

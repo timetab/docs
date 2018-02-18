@@ -6,3 +6,7 @@ Als Lehrer können Sie Hausaufgaben und Klausurtermine über die [Web App](https
 
 Diese Dokumentation richtet sich primär an Lehrer und wird bei Bedarf um Anleitungen für Schüler ergänzt. Das Dokument ist ebenfalls [als PDF verfügbar](https://www.gitbook.com/download/pdf/book/timetab/docs).
 
+Sollten sich Fragen ergeben, wenden Sie sich bitte an [support@timetab.org](mailto:support@timetab.org).
+
+**Beachten Sie:** TimeTab befindet sich in der Entwicklung. Wir haben alle Programme mehrfach getestet, es können allerdings trotzdem Fehler auftreten. Wenn Sie einen Fehler entdecken, wenden Sie sich bitte an die eben genannte E-Mail Adresse. Vielen Dank!
+
