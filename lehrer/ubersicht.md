@@ -1,9 +1,5 @@
 # Bedienung
 
-## Kalender
-
-
-
 ## Fächer
 
 Drücken Sie in der Menüleiste auf "Fächer" um zu Ihren Fächern und Kursen zu gelangen.
